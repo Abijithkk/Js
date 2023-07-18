@@ -1,0 +1,50 @@
+java script
+-----------
+
+-high-level coding language- interpreter
+-type conversions-compilers and interpreters-
+-node is the interpreter used in js
+
+
+() - function
+.() - method
+ keyword
+
+---Data Types---
+
+1-Number
+      -int 5 -7 0
+      -float 0.1 1.1 -0.6
+
+2.string
+      -'hi' "ab"  "500"
+
+3.boolean
+      -true/false
+
+4.default/none/null/undefined
+
+
+Data Store
+----------
+
+variables - to store data tempororily
+
+strictly typed -c,ts
+dynamically typed -js,python
+case sensitive language
+
+my_num=678   //snake notation
+myNumber==457  //camel notation -js
+
+variable declaration
+const let var
+
+
+flow of controls
+----------------
+
+
+decision making - if,else ,else if / ternary operator
+looping         - for,while
+switching       - continue,break  -keyword
