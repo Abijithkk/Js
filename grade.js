@@ -1,4 +1,4 @@
-var score=101
+var score=60
 if(score>=90&&score<=100){
     console.log("grade is A+");
 }
@@ -17,3 +17,4 @@ else if(score<60){
 else{
     console.log("invalid");
 }
+

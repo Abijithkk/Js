@@ -60,3 +60,18 @@ var score=78
 // 60-69=B
 // <60-fail
 // 100 above -invalid
+
+
+var no=100
+if(no%15==0){
+    console.log("fizzbuzz");
+}
+else if(no%5==0){
+    console.log("buzz");
+}
+else if(no%3==0){
+    console.log("fizz");
+}
+else{
+    console.log("invalid");
+}
